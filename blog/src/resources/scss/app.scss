@@ -1,0 +1,41 @@
+@import 'variables';
+// @import '~/../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
+// @import '~/../node_modules/@fortawesome/fontawesome-free/scss/solid.scss';
+// @import '~/../node_modules/@fortawesome/fontawesome-free/scss/brands.scss'; 
+
+// .user {
+//     @extend %fa-icon;
+//     @extend .fas;
+  
+//     &:before {
+//       content: fa-content($fa-var-user);
+//     }
+//   }
+//   .twitter {
+//     @extend %fa-icon;
+//     @extend .fab;
+  
+//     &:before {
+//       content: fa-content($fa-var-twitter);
+//     }
+//   }
+//   *:not(.fa){
+//     font-family: Arial;
+//   }
+//   .hike-technical-data .ascent:before {
+// 	font-family: 'Font Awesome\ 5 Free';
+// 	content: '\f30c';
+// }
+.card-course-item {
+    margin-top: 16px;
+}
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius:50%;
+    margin-right: 4px;
+    margin-bottom: 7px;
+}
+.checkbox-select{
+    margin: 0 8px;
+}
