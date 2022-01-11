@@ -2,10 +2,10 @@ npm init
 npm install express
 npm i nodemon --save-dev
 npm i morgan --save-dev
-npm install express-handlebars //templates
+npm install express-handlebars 
 npm install node-sass --save-dev
 npm i prettier lint-staged husky --save-dev
 npm install mongoose
-npm install method-override ( đổi thêm phương thức put vào form )
-npm install mongoose-delete ( sort delete)
-npm install --save mongoose-sequence (Auto increment id field)
+npm install method-override 
+npm install mongoose-delete 
+npm install --save mongoose-sequence 
